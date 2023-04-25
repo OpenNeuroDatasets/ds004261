@@ -1,0 +1,11 @@
+{
+  "response": "The response that the subject made during current stage",
+  "stim_id": "The ID of each stimuli",
+  "stim_version": "The version for misinformation during post-event stage, details see the paper",
+  "stim_events": "The ID of events",
+  "stim_slides": "The slides number in a event",
+  "trial_id": "The ID of trial",
+  "run_id": "The ID of run",
+  "stim_redcross": "The red cross during original-event and post-event stage",
+  "subsequent_response_type": "The response that the subject made during memory-test stage"
+}
